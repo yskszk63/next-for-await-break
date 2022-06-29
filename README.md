@@ -5,3 +5,5 @@ for await (const _ of stream()) {
   break;
 }
 ```
+
+`next@12.2.0` ... works!
